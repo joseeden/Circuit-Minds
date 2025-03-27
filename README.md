@@ -7,7 +7,7 @@ This is a simple landing page designed for a fictional engineering company calle
 
 You can also explore:
 
-- [Live Demo](https://reliable-mochi-eea45c.netlify.app/) 
+- [Live Demo](https://circuitminds.netlify.app/) 
 
 Screenshot:
 
